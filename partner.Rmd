@@ -1,0 +1,11 @@
+---
+title: "partner"
+output: html_document
+---
+
+Partner's Name: Desmond Orton  
+The most recent commit: committed the .html and the .Rmd  
+Commit id: 8df7c587fff08adb4815558ab567aad19cc87903  
+
+No errors encountered  
+The difficulty for me was the lack of knowledge about git and r I have, but hopefully with practice I will get better so my tip is to practice.
